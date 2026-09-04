@@ -9,4 +9,4 @@ Todos os feitos da UC1 do Curso de Python - Senac.
 
 ## Clone este repositório:
    ```bash
-   git clone [https://github.com/victorhugorochadasilva021-droid/Feitos-Senac---UC1.git)
+   https://github.com/victorhugorochadasilva021-droid/Feitos-Senac---UC1.git
